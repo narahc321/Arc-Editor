@@ -1,1 +1,2 @@
+Text Editor https://github.com/surajsinghbisht054/MagicStick_Editor
 compiler https://github.com/kushal10/C-Compiler
